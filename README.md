@@ -1,1 +1,1 @@
-# todo-app
+# https://stepovaaya.github.io/rsschool-cv/
