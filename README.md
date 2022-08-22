@@ -1,1 +1,1 @@
-# https://stepovaaya.github.io/rsschool-cv/
+# https://stepovaaya.github.io/todo-app/
